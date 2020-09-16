@@ -1,0 +1,110 @@
+@media screen and (max-width:479px){
+    .wapper{
+        width:200px;
+    }
+    .header{
+        position: relative;
+        width:200px;
+        height:200px;
+        float:none;
+        right:40px;
+    }
+    .borderbox { 
+        position: absolute;
+        top: 70px;
+        left:20px;
+        width:160px;
+        height: 60px;
+        background-color:#ffffff;
+        transform:rotate(90deg)
+    }
+    .borderbox2{
+        position: absolute;
+        left:0px;
+        top:0px;
+        float:none;
+        width:40px;
+        height: 40px;
+        background-color: #a9004b;
+    }
+    .borderbox3{
+        float:none;
+        margin:10px auto;
+        width:40px;
+        height: 40px;
+        background-color: #a9004b;
+    }
+    .borderbox4{
+        position: absolute;
+        float:none;
+        top:0px;
+        left:100px;
+        width:40px;
+        height: 40px;
+        background-color: #a9004b;
+    }
+    .contens{
+        width: 200px;
+    }
+    .left{
+        position: relative;
+        float:none;
+        top:-16px;
+        left:-40px;
+        width:200px;
+        height:100px;
+        background-color: #80bfa8;
+    }
+    .center{
+        position: relative;
+        float:none;
+        top:-16px;
+        left:-40px;
+        width:200px;
+        height: 230px;
+        background-color: #8c2727;
+    }
+    
+    .centerbox1{
+        margin:20px 0px 50px 25px;
+        width:140px;
+        height: 40px;
+        background-color: #ff863f;
+        border: solid 5px #ffffff;
+    }
+    .centerbox2{
+        float:right;
+        right:25px;
+        bottom:30px;
+        width:140px;
+        height: 40px;
+        background-color: #ff863f;
+        border: solid 5px #ffffff;
+    }
+    .centerbox3{
+        float:right;
+        right:25px;
+        bottom:10px;
+        width:140px;
+        height: 40px;
+        background-color: #ff863f;
+        border: solid 5px #ffffff;
+    }
+    .footer{
+        position: relative;
+        top:-16px;
+        left:-40px;
+        width:200px;
+        height: 100px;
+        background-color: #d98d30;
+
+    ul li {
+        color: #0000ff;
+        
+    }
+    ul li:first-child {
+        color: #ff0000;
+        font-weight: bold;
+    }
+ 
+}
