@@ -1,0 +1,31 @@
+1. CakePHPの2系・3系の違い
+【PHPのバージョン変更】
+$CakePHP2
+
+PHP ///　5.3以上
+Extension ///mcrypt
+PostagreSQL ///7以上
+MySQL ///4&5
+SQL Server ///2005以上
+SQLite ///???
+
+$CakePHP2
+
+PHP ///　5.5.9以上
+Extension ///intl mbstring openssl
+PostagreSQL ///???
+MySQL ///5.1.10以上
+SQL Server ///2008以上
+SQLite ///3
+
+CakePHP2までのモデルクラスが
+3系からTableとEntityの2つに分離
+コストやプラグイン周り、PHPのバージョンが高いなどのデメリットがあり。
+
+2. LAMP
+OSであるLinux、WebサーバであるApache HTTP Server、データベースであるMySQL、スクリプト言語であるPerl、PHP、Pythonを総称した頭文字から成る造語。動的なウェブコンテンツを含むウェブサイトの構築に適した、オープンソースのソフトウェア群である。
+
+3. AWS
+
+Amazon.comにより提供されているクラウドコンピューティングサービス。
+ウェブサービスと称しているが、ウェブサービスに限らない多種多様なインフラストラクチャーサービスを提供。
